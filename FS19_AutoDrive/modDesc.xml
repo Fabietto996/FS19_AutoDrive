@@ -24,150 +24,187 @@
 		<text name="UNKNOWN">	           						
 			<en>Unknown</en> 
 			<de>Unbekannt</de>  
+			<it>Sconosciuto</it> 
 		</text>
 		<text name="input_ADToggleHud">
 			<en>AD: Toggle HUD</en>
 			<de>AD: HUD ein/ausblenden</de>	
+			<it>AD: Attiva / disattiva HUD</it> 
 		</text>
 		<text name="input_ADToggleMouse">
 			<en>AD: Toggle Mouse</en> 
 			<de>AD: Maus ein/ausblenden</de>	
+			<it>AD: Attiva/Disattiva il mouse</it> 
 		</text>
 		<text name="input_ADEnDisable"> 
 			<en>AD: En/Disable</en>
 			<de>AD: Ein/Ausschalten</de>
+			<it>AD: On/Off</it> 
 		</text>
 		<text name="input_ADSilomode"> 
 			<en>AD: Change mode</en>  	
-			<de>AD: Modus wechseln</de> 					
+			<de>AD: Modus wechseln</de> 
+            <it>AD: Cambia modalità</it> 			
 		</text>
 		<text name="input_ADRecord">  							
 			<en>AD: Record</en>  							
-			<de>AD: Aufzeichnen</de>					
+			<de>AD: Aufzeichnen</de>	
+			<it>AD: Registra Percorso</it> 
 		</text>
 		<text name="input_ADSelectTarget">						
 			<en>AD: Select Next Target</en>  				
 			<de>AD: Ziel wählen</de> 
+			<it>AD: Destinazione successiva</it> 
 		</text>
 		<text name="input_ADSelectPreviousTarget">			
 			<en>AD: Select Previous Target</en>  			
 			<de>AD: Voriges Ziel wählen</de>
+			<it>AD: Destinazione precedente</it> 
 		</text>
 		<text name="input_AD_Speed_up">							
 			<en>AD: Increase Speed</en>  					
-			<de>AD: Geschwindigkeit erhöhen</de>  			
+			<de>AD: Geschwindigkeit erhöhen</de> 
+            <it>AD: Aumenta Velocità</it>  			
 		</text>
 		<text name="input_AD_Speed_down">					
 			<en>AD: Decrease Speed</en>  					
-			<de>AD: Geschwindigkeit verringern</de>			
+			<de>AD: Geschwindigkeit verringern</de>
+            <it>AD: Riduci Velocità</it> 			
 		</text>
 		<text name="input_AD_export_routes">				
 			<en>AD: Export Routes</en>  					
-			<de>AD: Strecken exportieren</de>				
+			<de>AD: Strecken exportieren</de>
+            <it>AD: Esporta Percorsi</it> 			
 		</text>
 		<text name="input_AD_import_routes">				
 			<en>AD: Import Routes</en>  					
-			<de>AD: Strecken importieren</de>			
+			<de>AD: Strecken importieren</de>	
+			<it>AD: Importa Percorsi</it> 			
 		</text>
 		<text name="input_AD_upload_routes">				
 			<en>AD: Upload Routes</en>  					
-			<de>AD: Strecken hochladen</de>				
+			<de>AD: Strecken hochladen</de>
+			<it>AD: Carica Percorsi</it> 
 		</text>
 		<text name="input_AD_continue">							
 			<en>AD: Continue</en>  							
-			<de>AD: Weiterfahren</de>					
+			<de>AD: Weiterfahren</de>
+			<it>AD: Continuare</it> 			
 		</text>
 		<text name="input_ADSelectTargetUnload">				
 			<en>AD: Select Next Unload</en>  				
 			<de>AD: Nächster Abladepunkt</de>
+			<it>AD: Successivo Punto di scarico </it> 
 		</text>
 		<text name="input_ADSelectPreviousTargetUnload">		
 			<en>AD: Select Previous Unload</en>  			
 			<de>AD: Voriger Abladepunkt</de>
+			<it>AD: Precedente Punto di scarico </it> 
 		</text>
 		<text name="input_ADActivateDebug">						
 			<en>AD: Edit Mode</en> 							
-			<de>AD: Editor Modus</de>			
+			<de>AD: Editor Modus</de>
+            <it>AD: Modalità Modifica</it> 			
 		</text>
 		<text name="input_ADDebugShowClosest">				
 			<en>AD: Show Closest Point</en>  				
-			<de>AD: Naheliegendsten Punkt anzeigen</de>		
+			<de>AD: Naheliegendsten Punkt anzeigen</de>
+            <it>AD: Mostra il punto più vicino</it> 			
 		</text>
 		<text name="input_ADDebugSelectNeighbor">			
 			<en>AD: Select Neighbour Point</en>  			
-			<de>AD: Nachbarpunkt wählen</de>		
+			<de>AD: Nachbarpunkt wählen</de>
+			<it>AD: Seleziona punto vicino</it> 			
 		</text>
 		<text name="input_ADDebugChangeNeighbor">			
 			<en>AD: Select next Neighbour Point</en> 		
 			<de>AD: Nächsten Nachbarpunkt wählen</de>		
+			<it>AD: Prossimo punto vicino</it> 
 		</text>
 		<text name="input_ADDebugCreateConnection">			
 			<en>AD: Toggle connection between</en>  		
 			<de>AD: Verbindung an/aus</de>				
+			<it>AD: On/Off Connessione tra punti</it> 
 		</text>
 		<text name="input_ADDebugCreateMapMarker">			
 			<en>AD: Create new Target</en>  				
 			<de>AD: Neues Ziel erstellen</de>	
+			<it>AD: Crea nuova destinazione</it> 
 		</text>
 		<text name="input_ADDebugDeleteWayPoint">			
 			<en>AD: Delete Waypoint</en>  					
 			<de>AD: Wegpunkt löschen</de>		
+			<it>AD: Elimina waypoint</it> 
 		</text>
 		<text name="input_ADDebugForceUpdate">				
 			<en>AD: Update ways</en>  						
 			<de>AD: Wege neu berechnen</de>				
+			<it>AD:Ricalcola Percorsi</it> 
 		</text>
 		<text name="input_ADDebugDeleteDestination">		
 			<en>AD: Delete Destination</en>  			
 			<de>AD: Ziel löschen</de>		
+			<it>AD: Cancella Destinazione</it> 
 		</text>
 		<text name="input_ADSelectNextFillType">		
 			<en>AD: Select Next Filltype</en>  				
 			<de>AD: Nächster Fruchttyp</de>
+			<it>AD: tipo di frutto successivo</it> 
 		</text>
 		<text name="input_ADSelectPreviousFillType">		
 			<en>AD: Select Previous Filltype</en>  			
 			<de>AD: Vorheriger Fruchttyp</de>
+			<it>AD: tipo di frutto precedente</it> 
 		</text>	
 		<text name="AD_Driver_of">
 			<en>Driver of</en>
 			<de>Der Fahrer von</de>
+			<it>L'autista di</it> 
 		</text>
 		<text name="AD_has_reached">
 			<en>has reached</en>
 			<de>ist angekommen bei</de>
+			<it>Arrivato</it> 
 		</text>
 		<text name="AD_got_stuck">
 			<en>got stuck</en>
 			<de>hat sich fest gefahren</de>
+			<it>Rimasto Bloccato</it> 
 		</text>
 		<text name="AD_cannot_reach">
 			<en>can't reach</en>
 			<de>hat keinen Weg gefunden zu</de>
+			<it>Non posso Raggiungere</it> 
 		</text>
 		<text name="AD_new_marker">
 			<en>New Goal:</en>
 			<de>Neues Ziel:</de>
+			<it>Nuovo Obiettivo:</it> 
 		</text>
 		<text name="AD_new_marker_helptext">
 			<en>Please enter new name (Stop with enter key)</en>
 			<de>Namen eingeben - Beenden mit Enter-Taste</de>
+			<it>Inserisci Nome(Salva con tasto invio)</it> 
 		</text>
 		<text name="AD_Recalculationg_routes_status">
 			<en>Recalculating routes. Please wait. Finished:</en>
 			<de>Routen werden neuberechnet. Bitte warten. Berechnet:</de>
+			<it>Ricalcolo delle rotte. Attendere quando Finito:</it> 
 		</text>
 		<text name="AD_MODE_DRIVETO">
 			<en>Drive</en>
 			<de>Fahren</de>
+			<it>Guida</it> 
 		</text>
 		<text name="AD_MODE_DELIVERTO">
 			<en>Deliver</en>
 			<de>Abladen</de>
+			<it>Consegna</it> 
 		</text>
 		<text name="AD_MODE_PICKUPANDDELIVER">
 			<en>Pickup and Deliver</en>
 			<de>Abholen und Abliefern</de>
+			<it>Carica e Consegna</it> 
 		</text>
 	</l10n>
 
